@@ -1,1 +1,1 @@
-This line was changed by Main Branch.
+This has now solved merge conflict. 
